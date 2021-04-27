@@ -1,0 +1,14 @@
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\bin\Debug\SampleBinding1.exe.config
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\bin\Debug\SampleBinding1.exe
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\bin\Debug\SampleBinding1.pdb
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\SampleBinding1.csprojAssemblyReference.cache
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\MainWindow.g.cs
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\App.g.cs
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\SampleBinding1_MarkupCompile.cache
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\SampleBinding1_MarkupCompile.lref
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\MainWindow.baml
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\SampleBinding1.g.resources
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\SampleBinding1.Properties.Resources.resources
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\SampleBinding1.csproj.GenerateResource.cache
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\SampleBinding1.exe
+C:\Users\ExamSign\source\repos\SampleBinding1\SampleBinding1\obj\Debug\SampleBinding1.pdb
